@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to job in React js
 - 📫 How to reach me gobindbhari@gmail.com
-- 😄 Pronouns: ...
+- 🔗 Linedin: https://www.linkedin.com/in/gobind-singh-bhari
 - ⚡ Fun fact: ...
 
 <!---
